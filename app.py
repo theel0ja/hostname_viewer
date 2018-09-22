@@ -23,5 +23,5 @@ def route_get_by_ipblock():
                         'msg': "IP block not set"})
 
 
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
